@@ -1,0 +1,51 @@
+Here are some Java practice questions covering the topics you mentioned:
+
+### 1. Primary Data Types and Variables
+- **Q1:** Declare variables of all primary data types in Java and assign them appropriate values. Print each variable.
+- **Q2:** What is the difference between `float` and `double`? Write a code snippet to demonstrate the difference.
+
+### 2. Literals
+- **Q3:** Write a Java program that initializes variables using different types of literals (integer, floating-point, character, string, boolean).
+- **Q4:** Explain with examples the difference between a string literal and a character literal.
+
+### 3. Type Conversion and Casting
+- **Q5:** Write a Java program to demonstrate implicit type conversion.
+- **Q6:** Write a Java program to explicitly cast a double to an integer and observe the result.
+
+### 4. Operators
+- **Arithmetic Operators**
+  - **Q7:** Write a program that takes two numbers as input and performs all arithmetic operations on them.
+- **Assignment Operators**
+  - **Q8:** Demonstrate the use of all assignment operators in a single Java program.
+- **Relational Operators**
+  - **Q9:** Write a program that takes two numbers as input and compares them using relational operators.
+- **Logical Operators**
+  - **Q10:** Create a program that uses logical operators to evaluate multiple conditions and prints the result.
+
+### 5. Scanner Class
+- **Q11:** Write a Java program that uses the `Scanner` class to take user input for their name, age, and GPA, then prints this information.
+- **Q12:** Create a program that takes an integer input from the user and checks if it’s even or odd.
+
+### 6. Conditional Statements
+- **Q13:** Write a Java program that takes a score as input and prints the grade according to the following criteria:
+  - `A` for scores >= 90
+  - `B` for scores >= 80 and < 90
+  - `C` for scores >= 70 and < 80
+  - `D` for scores >= 60 and < 70
+  - `F` for scores < 60
+- **Q14:** Write a program that takes a year as input and checks if it’s a leap year using conditional statements.
+
+### 7. Ternary Operators
+- **Q15:** Write a program that takes two integers as input and prints the greater of the two using the ternary operator.
+- **Q16:** Use a ternary operator to check if a number is positive, negative, or zero.
+
+### 8. Loops
+- **Q17:** Write a program that prints the first 10 natural numbers using a `for` loop.
+- **Q18:** Create a program that calculates the factorial of a number using a `while` loop.
+- **Q19:** Write a program that prints the multiplication table of a given number using a `do-while` loop.
+
+### 9. Classes and Objects
+- **Q20:** Create a class `Car` with properties like `make`, `model`, `year`, and a method `displayDetails()`. Instantiate the class and call the method to display the car's details.
+- **Q21:** Write a class `Student` with attributes `name`, `rollNumber`, and `marks`. Create methods to assign values to these attributes and display them.
+
+These questions should give you a solid practice across the various Java topics you're learning.
