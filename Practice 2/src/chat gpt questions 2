@@ -1,0 +1,71 @@
+
+### 1. Ternary Operators
+**Question 1:**
+Write a Java program that takes two integers as input and uses a ternary operator to determine and
+print the larger number.
+**Question 2:**
+Write a Java program that checks if a number is even or odd using a ternary operator.
+**Question 3:**
+Given three integers, use a nested ternary operator to find and print the smallest number.
+
+
+### 2. Loops
+**Question 4:**
+Write a Java program to calculate the factorial of a number using a `for` loop.
+**Question 5:**
+Write a Java program that prints all prime numbers between 1 and 100 using a `while` loop. -- re revise
+**Question 6:**
+Write a Java program that sums all even numbers from 1 to 100 using a `do-while` loop.
+**Question 7:**
+Write a Java program that checks whether a number is a palindrome using a `while` loop. --- re revise
+
+
+### 3. Classes and Methods
+**Question 8:**
+Create a Java class `Rectangle` with instance variables for `length` and `width`.
+Implement methods to calculate and return the area and perimeter of the rectangle.
+Also, include a method to display the dimensions, area, and perimeter.
+**Question 9:**
+Create a Java class `Student` with instance variables `name`, `rollNumber`, and `marks`.
+Implement methods to set and get the values of these variables. Write a method to calculate
+the grade of the student based on their marks (e.g., A, B, C) and a method to display the student's details.
+
+
+### 4. Method Overloading
+**Question 10:**
+Create a Java class `MathOperations` that includes overloaded methods `add()`:
+- `add(int a, int b)` for adding two integers.
+- `add(double a, double b)` for adding two doubles.
+- `add(int a, int b, int c)` for adding three integers.
+Write a program to demonstrate the usage of these methods.
+
+**Question 11:**
+Create a Java class `PrintValues` with overloaded methods `print()`:
+- `print(int a)` to print an integer.
+- `print(double a)` to print a double.
+- `print(String a)` to print a string.
+Write a program to demonstrate the usage of these methods.
+
+
+### 5. Stack vs. Heap
+**Question 12:**
+Explain with an example the difference between stack and heap memory in Java.
+Create a small Java program to demonstrate how variables are stored in stack vs. heap.
+
+**Question 13:**
+Consider the following Java code:
+```java
+class Example {
+    int x = 10;
+    static int y = 20;
+    public void methodA() {
+        int z = 30;
+    }
+}
+```
+- Identify which variables are stored in stack memory and which are stored in heap memory.
+- Explain what happens to these variables when an object of the class `Example` is created and when `methodA()` is called.
+
+**Question 14:**
+Create a Java program that creates multiple objects of a class and demonstrate the difference in memory
+allocation between stack and heap. Discuss how method calls and object references affect memory allocation.
