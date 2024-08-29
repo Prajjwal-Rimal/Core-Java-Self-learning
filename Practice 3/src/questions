@@ -1,0 +1,54 @@
+### Loops
+1. Write a program to print the Fibonacci series up to a given number using a `for` loop.
+2. Create a program that reverses a number using a `while` loop.
+3. Write a program to print a pattern like a right-angled triangle using nested `for` loops.
+4. Use a `do-while` loop to find the sum of digits of a given number.
+
+### Classes and Objects
+1. Design a class called `student` with attributes `name`, `rollNumber`, and `marks`. Create methods to display student details and calculate grades.
+2. Create a class `bankAccount` with attributes `accountNumber`, `balance`, and methods for deposit and withdrawal. Implement error checking for negative balances.
+3. Write a program that creates multiple objects of a `book` class, each having attributes like `title`, `author`, and `price`, and methods to display book details.
+
+### Designing Classes
+1. Design a class `employee` with attributes like `name`, `id`, `department`, and `salary`. Include a constructor to initialize these attributes and methods to update salary and display employee details.
+2. Create a class `vehicle` with attributes `brand`, `model`, and `price`. Add constructors, getters, and setters, and a method to display the vehicle details.
+
+### Methods & Method Overloading
+1. Create a class `mathoperations` with methods to add, subtract, multiply, and divide two numbers. Overload the methods to handle different types of input (int, double).
+2. Write a program that defines a method `area` to calculate the area of different shapes (circle, rectangle, and square) using method overloading.
+
+### Stack vs. Heap
+1. Write a short program to demonstrate the difference between stack and heap memory using local and dynamic variables.
+2. Explain the memory allocation when objects are created in Java and how it differs from primitive types.
+
+### Arrays
+1. Write a program to create an array of integers and find the maximum and minimum values.
+2. Explain the need for arrays in Java with an example of managing student grades.
+3. Create a 2D array and perform matrix addition.
+4. Design a program using a 3D array to represent a Rubik’s cube with its different color sides.
+
+### Multi-dimensional Arrays
+1. Write a program to input values into a 2D array and calculate the sum of its rows and columns.
+2. Create a program that multiplies two matrices using 2D arrays.
+
+### Jagged Array
+1. Write a program to create a jagged array where each row has a different number of columns, input values, and print the array.
+2. Create a jagged array that stores test scores of students where each student took a different number of tests.
+
+### 3D Array
+1. Design a 3D array to store RGB values of an image and write a method to manipulate these values.
+2. Create a program that initializes a 3D array to represent a cinema seating layout, where each seat can be marked as available or booked.
+
+### Drawbacks of Arrays
+1. Discuss the limitations of arrays in Java, especially concerning fixed size, type homogeneity, and lack of built-in methods.
+2. Write a short program to demonstrate one drawback of arrays and suggest an alternative using an ArrayList.
+
+### Array of Objects
+1. Create a class `product` and an array to store multiple `product` objects. Write methods to add and display product details.
+2. Write a program that creates an array of objects of the `person` class and sorts them based on age.
+
+### Enhanced For Loop (For-Each Loop)
+1. Write a program using an enhanced for loop to iterate over an array of integers and calculate the sum of elements.
+2. Use an enhanced for loop to print the details of objects stored in an array of a `car` class.
+
+These questions will give you a comprehensive practice on the topics you are focusing on! Let me know if you need more details or explanations for any specific question.
