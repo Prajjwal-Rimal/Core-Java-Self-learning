@@ -46,6 +46,6 @@ class classObj2{
             int wamt =BA.withdrawal(number,wAmt);
             System.out.println(wamt);
         }
-        
+
     }
 }

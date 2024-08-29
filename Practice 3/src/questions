@@ -9,10 +9,6 @@
 2. Create a class `bankAccount` with attributes `accountNumber`, `balance`, and methods for deposit and withdrawal. Implement error checking for negative balances.
 3. Write a program that creates multiple objects of a `book` class, each having attributes like `title`, `author`, and `price`, and methods to display book details.
 
-### Designing Classes
-1. Design a class `employee` with attributes like `name`, `id`, `department`, and `salary`. Include a constructor to initialize these attributes and methods to update salary and display employee details.
-2. Create a class `vehicle` with attributes `brand`, `model`, and `price`. Add constructors, getters, and setters, and a method to display the vehicle details.
-
 ### Methods & Method Overloading
 1. Create a class `mathoperations` with methods to add, subtract, multiply, and divide two numbers. Overload the methods to handle different types of input (int, double).
 2. Write a program that defines a method `area` to calculate the area of different shapes (circle, rectangle, and square) using method overloading.
