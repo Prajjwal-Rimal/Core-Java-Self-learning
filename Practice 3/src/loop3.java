@@ -1,6 +1,6 @@
 //3. Write a program to print a pattern like a right-angled triangle using nested `for` loops.
 
-class for3{
+class loop3{
     public static void main(String[]args){
 
         for (int i=0; i<=5;i++){

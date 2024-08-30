@@ -21,6 +21,7 @@ class array3{
         for (int n: final_addition){
             System.out.print(n+" ");
         }
+
         System.out.println();
         System.out.print(matrixadd[0][0]+ matrixadd[1][0]+" ");
         System.out.print(matrixadd[0][1]+ matrixadd[1][1]+" ");

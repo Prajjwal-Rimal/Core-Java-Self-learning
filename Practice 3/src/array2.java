@@ -8,4 +8,4 @@
 
 // if we were to not create the arrays we would have to use String name and int marks for each number of students
 // making the code hard to read and making variable naming difficult also each of the variables would have diffrent
-// memory addresses and not a continious one like in array. 
+// memory addresses and not a continious one like in array.

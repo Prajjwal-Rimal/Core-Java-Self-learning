@@ -35,10 +35,6 @@
 1. Design a 3D array to store RGB values of an image and write a method to manipulate these values.
 2. Create a program that initializes a 3D array to represent a cinema seating layout, where each seat can be marked as available or booked.
 
-### Drawbacks of Arrays
-1. Discuss the limitations of arrays in Java, especially concerning fixed size, type homogeneity, and lack of built-in methods.
-2. Write a short program to demonstrate one drawback of arrays and suggest an alternative using an ArrayList.
-
 ### Array of Objects
 1. Create a class `product` and an array to store multiple `product` objects. Write methods to add and display product details.
 2. Write a program that creates an array of objects of the `person` class and sorts them based on age.
