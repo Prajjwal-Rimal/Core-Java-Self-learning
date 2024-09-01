@@ -4,7 +4,6 @@
 
 //34+19+11
 
-import javax.swing.*;
 
 class product{
  String name;
