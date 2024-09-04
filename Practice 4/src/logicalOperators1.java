@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 class leapyear{
     public void checkLeapYear(int year){
-        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)){ // made logical mistake that is corrected 
+        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)){ // made logical mistake that is corrected
             System.out.println("it is a leap year");
         }else {
             System.out.println("not a leap year");
