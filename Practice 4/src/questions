@@ -47,7 +47,7 @@ of input (method overloading).
 ### 10. 2D Arrays
 - Create a program that initializes a 2D array and finds the sum of all elements in the array.
 - Write a Java program to perform matrix multiplication on two 2D arrays. -- please revisit still no idea what this is
-
+-------------------------------------------------------------------------------------------------------------------
 ### 11. 3D Arrays
 - Write a Java program to initialize a 3D array and display its elements in a formatted way.
 - Implement a program that calculates the sum of all elements in a 3D array.
@@ -59,7 +59,7 @@ of input (method overloading).
 ### 13. Array of Objects
 - Write a Java program that creates an array of `Book` objects and displays the details of each book.
 - Implement a program that creates an array of `Student` objects and calculates the average marks of the students.
--------------------------------------------------------------------------------------------------------------------
+
 ### 14. Strings
 - Write a program to check if a given string is a palindrome.
 - Implement a program that counts the frequency of each character in a string.
