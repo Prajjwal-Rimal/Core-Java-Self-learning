@@ -42,7 +42,7 @@ of input (method overloading).
 -------------------------------------------------------------------------------------------------------------------
 ### 9. Creation of Arrays
 - Write a Java program to initialize an array of integers and print all its elements.
-- Implement a program to find the largest and smallest elements in an array.
+- Implement a program to find the largest and smallest elements in an array. // bubble sort
 
 ### 10. 2D Arrays
 - Create a program that initializes a 2D array and finds the sum of all elements in the array.
