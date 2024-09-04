@@ -72,7 +72,7 @@ of input (method overloading).
 ### 16. StringBuffer
 - Write a program that uses `StringBuffer` to reverse a string.
 - Implement a program that uses `StringBuffer` to replace a substring within a string.
-
+-------------------------------------------------------------------------------------------------------------------
 ### 17. Static Variables, Methods, and Blocks
 - Write a Java program to demonstrate the use of static variables and methods.
 - Create a program that uses a static block to initialize static variables and display their values.
