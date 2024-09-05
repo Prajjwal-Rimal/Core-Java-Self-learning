@@ -59,7 +59,7 @@ of input (method overloading).
 ### 13. Array of Objects
 - Write a Java program that creates an array of `Book` objects and displays the details of each book.
 - Implement a program that creates an array of `Student` objects and calculates the average marks of the students.
-
+-------------------------------------------------------------------------------------------------------------------
 ### 14. Strings
 - Write a program to check if a given string is a palindrome.-- simply reverse a string
 - Implement a program that counts the frequency of each character in a string. -- take a string, split into array, use
@@ -75,7 +75,7 @@ the number of them
 - Write a program that uses `StringBuffer` to reverse a string. -- inbuilt methodd is present
 - Implement a program that uses `StringBuffer` to replace a substring within a string. --  use repalce method and
 replace with sub string
--------------------------------------------------------------------------------------------------------------------
+
 ### 17. Static Variables, Methods, and Blocks
 - Write a Java program to demonstrate the use of static variables and methods.
 - Create a program that uses a static block to initialize static variables and display their values.
