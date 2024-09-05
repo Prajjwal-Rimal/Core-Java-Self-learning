@@ -47,10 +47,11 @@ of input (method overloading).
 ### 10. 2D Arrays
 - Create a program that initializes a 2D array and finds the sum of all elements in the array.
 - Write a Java program to perform matrix multiplication on two 2D arrays. -- please revisit still no idea what this is
--------------------------------------------------------------------------------------------------------------------
+
 ### 11. 3D Arrays
 - Write a Java program to initialize a 3D array and display its elements in a formatted way.
 - Implement a program that calculates the sum of all elements in a 3D array.
+-------------------------------------------------------------------------------------------------------------------
 
 ### 12. Jagged Arrays
 - Create a Java program to initialize and display a jagged array where the lengths of rows vary.
