@@ -23,7 +23,7 @@ and then performs the operation using a switch statement.
 - Write a program to print the first 10 numbers in the Fibonacci sequence using a `for` loop.
 - Implement a program that uses an enhanced `for` loop to sum all elements of an integer array.
 - Create a program to find the factorial of a number using a `while` loop.
--------------------------------------------------------------------------------------------------------------------
+
 ### 6. Classes and Objects
 - Design a class `Book` with properties like `title`, `author`, and `price`. Write a program to create an object of
 this class and display the details of the book.
@@ -39,7 +39,7 @@ of input (method overloading).
 ### 8. Stack and Heap
 - Explain how stack and heap memory are used when creating objects in Java.
 - Write a program that demonstrates memory allocation in the stack and heap by creating objects in a method.
--------------------------------------------------------------------------------------------------------------------
+
 ### 9. Creation of Arrays
 - Write a Java program to initialize an array of integers and print all its elements.
 - Implement a program to find the largest and smallest elements in an array. // bubble sort
@@ -61,10 +61,8 @@ of input (method overloading).
 - Implement a program that creates an array of `Student` objects and calculates the average marks of the students.
 -------------------------------------------------------------------------------------------------------------------
 ### 14. Strings
-- Write a program to check if a given string is a palindrome.-- simply reverse a string
-- Implement a program that counts the frequency of each character in a string. -- take a string, split into array, use
-char at to get each character placement,then in the array run a loopp that counts the number of char and if1=0 prints
-the number of them
+- Write a program to check if a given string is a palindrome.
+- Implement a program that counts the frequency of each character in a string.
 
 ### 15. Mutable vs. Immutable Strings
 - Explain the difference between mutable and immutable strings in Java. Provide examples using `String` and
@@ -72,9 +70,8 @@ the number of them
 - Write a program to demonstrate the mutability of `StringBuilder` by appending and modifying strings.
 
 ### 16. StringBuffer
-- Write a program that uses `StringBuffer` to reverse a string. -- inbuilt methodd is present
-- Implement a program that uses `StringBuffer` to replace a substring within a string. --  use repalce method and
-replace with sub string
+- Write a program that uses `StringBuffer` to reverse a string.
+- Implement a program that uses `StringBuffer` to replace a substring within a string.
 
 ### 17. Static Variables, Methods, and Blocks
 - Write a Java program to demonstrate the use of static variables and methods.
