@@ -27,7 +27,7 @@ class arrayJagged1{
                     max = array[i][j];// assign max
                 }
             }
-            System.out.println("Row " + i + ": " + max);// print max in each row of the element 
+            System.out.println("Row " + i + ": " + max);// print max in each row of the element
         }
     }
 }

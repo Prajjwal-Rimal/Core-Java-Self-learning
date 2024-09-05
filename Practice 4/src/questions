@@ -51,7 +51,6 @@ of input (method overloading).
 ### 11. 3D Arrays
 - Write a Java program to initialize a 3D array and display its elements in a formatted way.
 - Implement a program that calculates the sum of all elements in a 3D array.
--------------------------------------------------------------------------------------------------------------------
 
 ### 12. Jagged Arrays
 - Create a Java program to initialize and display a jagged array where the lengths of rows vary.
@@ -60,7 +59,7 @@ of input (method overloading).
 ### 13. Array of Objects
 - Write a Java program that creates an array of `Book` objects and displays the details of each book.
 - Implement a program that creates an array of `Student` objects and calculates the average marks of the students.
--------------------------------------------------------------------------------------------------------------------
+
 ### 14. Strings
 - Write a program to check if a given string is a palindrome.
 - Implement a program that counts the frequency of each character in a string.
