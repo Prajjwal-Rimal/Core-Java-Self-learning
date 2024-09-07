@@ -75,3 +75,49 @@ appropriate getters and setters to access and update these attributes.
 - Write a program to demonstrate the use of the `this` keyword to refer to the current object.
 - Implement a `Student` class with a constructor that initializes the student's name and ID using the `this` keyword.
  Write a method to display the student's details.
+-------------------------------------------------------------------------------------------------------------------
+Here are some additional Java practice questions focusing on **constructors**, including **default and parameterized constructors**, and **naming conventions**:
+
+### **13. Constructors**
+- **Default Constructor**:
+  - Write a Java program to create a `Car` class with attributes like `model` and `year`. Use a default constructor to initialize these attributes with some default values. Print the details of the car using a method.
+  - Create a class `Circle` with a default constructor that initializes the radius to `1.0`. Write a method to calculate and return the area of the circle. Create an object of the `Circle` class and display the area.
+  - Write a `Book` class that has a default constructor. The constructor should print a message like "Book object created!" when it is called. Create an object of this class to test if the message is displayed.
+
+- **Parameterized Constructor**:
+  - Implement a `Student` class with attributes `name`, `id`, and `marks`. Use a parameterized constructor to initialize these attributes. Write a method to display the student's details.
+  - Create a `Rectangle` class with attributes `length` and `breadth`. Write a parameterized constructor to initialize these attributes and a method to calculate and display the perimeter of the rectangle.
+  - Write a program that has a `Product` class with a parameterized constructor that accepts parameters like `productName`, `productId`, and `price`. Create an array of `Product` objects and display their details.
+
+- **Constructor Overloading**:
+  - Write a Java program to demonstrate constructor overloading by creating a `Person` class with three constructors: one with no parameters, one with one parameter (`name`), and one with two parameters (`name` and `age`). Create objects using different constructors and display their values.
+  - Create a `Triangle` class that has constructors to initialize:
+    - Only the base of the triangle.
+    - Both the base and height of the triangle.
+    - Write methods to calculate the area using different constructors.
+  - Implement a `BankAccount` class that has overloaded constructors:
+    - A default constructor with no parameters.
+    - A constructor that initializes `accountNumber` and `accountHolderName`.
+    - A constructor that initializes `accountNumber`, `accountHolderName`, and `initialBalance`.
+
+### **14. Naming Conventions**
+- **Classes and Interfaces**:
+  - Create a Java class that demonstrates proper naming conventions for classes, interfaces, and methods. Follow Java conventions by using PascalCase for classes (`StudentDetails`, `BankAccount`) and interfaces (`Readable`, `Printable`), and camelCase for methods (`calculateTotalMarks`, `displayDetails`).
+
+- **Variables and Methods**:
+  - Write a program to demonstrate proper naming conventions for variables and methods. Use camelCase for variable names (`studentName`, `totalMarks`) and method names (`calculateAverageMarks`, `displayStudentInfo`).
+
+- **Constants**:
+  - Implement a program where you define constants using `final` keyword with proper naming conventions (all uppercase letters with underscores). For example, `final int MAX_STUDENTS = 100;` and `final double PI = 3.14159;`.
+
+### **Practice Questions on Naming Conventions and Constructors**
+1. **Write a program to demonstrate proper naming conventions** by creating a `Library` class with attributes `libraryName`, `libraryLocation`, and methods like `addBook()`, `removeBook()`, and `listBooks()`.
+2. **Create a class `Employee`** with private attributes `name`, `id`, and `salary`. Use a parameterized constructor to initialize these values. Write getters and setters following Java naming conventions and display the employee details.
+3. **Implement a `Vehicle` class** with a default constructor that initializes default values, and a parameterized constructor that initializes make, model, and year. Demonstrate the use of both constructors by creating objects.
+4. **Write a program using constructor overloading** in a `Customer` class to initialize:
+    - Only customer name.
+    - Customer name and ID.
+    - Customer name, ID, and address. Use proper naming conventions for all variables, methods, and constructors.
+5. **Create a `Person` class** that demonstrates proper naming conventions and uses both default and parameterized constructors to initialize attributes like `firstName`, `lastName`, and `age`. Write methods to display the details of a person.
+
+These questions will help reinforce your understanding of constructors (default, parameterized, and overloaded) and Java naming conventions. Let me know if you need further explanations or additional questions!
