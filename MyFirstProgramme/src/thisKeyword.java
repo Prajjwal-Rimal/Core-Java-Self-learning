@@ -9,15 +9,16 @@ class humannn{
 
     public void setAge(int a){// this is a setter as it has
         // no return value and rather assigns the input value to the
-        // instance variables which ahvae been declared private
+        // instance variables which have been declared private
         this.age =a;
     }
 
-    public String getName(){// name can be diffrent but
-        // then its not recommended and doesnt follow the naming convention
+    public String getName(){// name can be different but
+        // then its not recommended and doesn't follow the naming convention
         return name;
     }
     public void setName( String b){
+
         this.name= b;
     }
 }

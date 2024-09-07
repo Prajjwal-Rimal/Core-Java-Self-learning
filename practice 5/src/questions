@@ -1,0 +1,77 @@
+### **1. Loops and Enhanced For Loop**
+- Write a program to print the first 10 prime numbers using a `for` loop.
+- Implement a program that uses a `while` loop to reverse a given integer.
+- Write a program that uses a `do-while` loop to print the multiplication table of a given number.
+- Create a program that uses an enhanced `for` loop to find the average of an array of integers.
+- Write a program that uses a nested `for` loop to print a pattern like:
+  ```
+  *
+  **
+  ***
+  ****
+  ```
+-------------------------------------------------------------------------------------------------------------------
+### **2. Creation of Arrays**
+- Write a program to create an array of `n` integers (where `n` is provided by the user) and calculate the sum of
+all elements.
+- Implement a program that takes input from the user to fill an array and then prints the array in reverse order.
+- Create a program that finds the second largest element in an integer array.
+
+### **3. 2D Arrays**
+- Write a Java program to create a 2D array of integers and initialize it with values. Print the elements in matrix
+form.
+- Implement a program that calculates the sum of each row and each column of a 2D array.
+- Write a program to transpose a given 2D matrix (convert rows into columns and vice versa).
+
+### **4. 3D Arrays**
+- Create a Java program to initialize a 3D array with random numbers between 1 and 100 and print its elements in a
+formatted way.
+- Write a program that calculates the sum of all elements in a 3D array.
+- Implement a program to find the maximum value in a 3D array.
+
+### **5. Jagged Arrays**
+- Write a Java program to create a jagged array where each row has a different number of columns. Initialize the
+jagged array with random values and print it.
+- Implement a program that finds the maximum element in each row of a jagged array.
+- Write a program to calculate the sum of all elements in a jagged array.
+
+### **6. Array of Objects**
+- Create a `Book` class with attributes like `title`, `author`, and `price`. Write a program to create an array
+of `Book` objects and display their details.
+- Write a program that creates an array of `Student` objects and calculates the average marks of all students.
+- Implement a program to create an array of `Employee` objects with attributes like `name`, `id`, and `salary`.
+Write a method to find the employee with the highest salary.
+-------------------------------------------------------------------------------------------------------------------
+### **7. Strings**
+- Write a program to check if a given string is a palindrome.
+- Create a program that counts the frequency of each character in a given string.
+- Implement a program that takes a sentence as input and counts the number of vowels and consonants.
+
+### **8. Mutable vs. Immutable Strings**
+- Write a program that demonstrates the immutability of the `String` class by attempting to modify a `String`
+object and observing the results.
+- Create a program that uses `StringBuilder` or `StringBuffer` to modify a string and demonstrate its mutability
+by appending, reversing, and deleting characters.
+
+### **9. StringBuffer**
+- Implement a program that uses `StringBuffer` to reverse a given string.
+- Write a program to use `StringBuffer` to replace a substring within a string.
+- Create a program that demonstrates the use of various `StringBuffer` methods like `append()`, `insert()`,
+ `delete()`, `replace()`, and `reverse()`.
+-------------------------------------------------------------------------------------------------------------------
+### **10. Static Variables, Methods, and Blocks**
+- Write a program to demonstrate the use of static variables by creating a class `Counter` that keeps track of
+the number of objects created.
+- Implement a program that uses a static method to calculate the factorial of a given number.
+- Create a program that uses a static block to initialize static variables and prints their values.
+-------------------------------------------------------------------------------------------------------------------
+### **11. Encapsulation, Getters, and Setters**
+- Write a Java program that demonstrates encapsulation by creating a `Person` class with private attributes `name`
+and `age`, and providing public getters and setters for them.
+- Create a `BankAccount` class with private attributes `accountNumber`, `accountHolderName`, and `balance`. Write
+appropriate getters and setters to access and update these attributes.
+
+### **12. `this` Keyword**
+- Write a program to demonstrate the use of the `this` keyword to refer to the current object.
+- Implement a `Student` class with a constructor that initializes the student's name and ID using the `this` keyword.
+ Write a method to display the student's details.
