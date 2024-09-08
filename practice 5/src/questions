@@ -120,4 +120,42 @@ Here are some additional Java practice questions focusing on **constructors**, i
     - Customer name, ID, and address. Use proper naming conventions for all variables, methods, and constructors.
 5. **Create a `Person` class** that demonstrates proper naming conventions and uses both default and parameterized constructors to initialize attributes like `firstName`, `lastName`, and `age`. Write methods to display the details of a person.
 
-These questions will help reinforce your understanding of constructors (default, parameterized, and overloaded) and Java naming conventions. Let me know if you need further explanations or additional questions!
+
+-------------------------------------------------------------------------------------------------------------------
+### **15. Anonymous Objects**
+1. **Create an anonymous object** of a `Calculator` class and use it to perform addition of two numbers. Write a method `add(int a, int b)` in the `Calculator` class and call it using an anonymous object.
+2. **Write a Java program** that uses an anonymous object to call a method that prints the area of a circle with a given radius.
+3. **Implement a program** that defines a class `Greeting` with a method `sayHello()` that prints a greeting message. Use an anonymous object to call this method.
+
+### **16. Need for Inheritance in Java**
+1. **Explain with an example** why inheritance is needed in Java. Write a program that demonstrates code reusability by creating a base class `Animal` with common properties and derived classes like `Dog` and `Cat`.
+2. **Write a Java program** that shows how inheritance helps in method overriding. Create a base class `Vehicle` with a method `run()`. Create a derived class `Car` that overrides the `run()` method. Explain why method overriding is useful.
+3. **Discuss the need for inheritance** by creating an example where you have a `Shape` class with a method `draw()`. Create subclasses like `Circle` and `Rectangle` that inherit from `Shape` and override the `draw()` method to provide specific implementations.
+
+### **17. Inheritance in Java**
+1. **Create a base class `Person`** with attributes like `name` and `age`. Derive a subclass `Student` that adds an attribute `studentId` and a method `study()`. Write a program to demonstrate the concept of inheritance.
+2. **Write a program** that demonstrates inheritance by creating a base class `Employee` with methods like `work()`. Derive two subclasses, `Manager` and `Developer`, each with its own unique method (`manageTeam()` and `writeCode()` respectively).
+3. **Implement a class hierarchy** where a base class `Appliance` has a method `turnOn()`. Derive classes like `WashingMachine` and `Refrigerator` that inherit from `Appliance` and add specific methods such as `startWashCycle()` and `setTemperature()`.
+
+### **18. Single and Multilevel Inheritance**
+1. **Single Inheritance**:
+   - Write a Java program that demonstrates single inheritance by creating a base class `Animal` with a method `makeSound()` and a derived class `Dog` that inherits from `Animal` and has its own method `bark()`.
+   - Create a base class `Shape` with a method `draw()`. Derive a subclass `Square` that inherits from `Shape` and has an additional method `calculateArea()`.
+2. **Multilevel Inheritance**:
+   - Write a program to demonstrate multilevel inheritance where:
+     - Class `Vehicle` is the base class.
+     - Class `Car` extends `Vehicle`.
+     - Class `ElectricCar` extends `Car`.
+   - Each class should have its own method (`drive()`, `fuelType()`, `chargeBattery()`) to demonstrate multilevel inheritance.
+   - Implement a `University` class with a method `getDetails()`. Create a subclass `Department` that extends `University`, and a subclass `Course` that extends `Department`. Demonstrate how multilevel inheritance works by creating objects and calling methods from different levels.
+
+### **19. Multiple Inheritance**
+1. **Explain why multiple inheritance** is not supported in Java with an example. Create two classes `ClassA` and `ClassB` with a method `display()`. Write a program to show the ambiguity that arises if a class `ClassC` tries to inherit from both `ClassA` and `ClassB`.
+2. **Demonstrate multiple inheritance** using interfaces. Create two interfaces, `Printable` with a method `print()` and `Showable` with a method `show()`. Implement both interfaces in a class `Demo` and write a program to call both methods.
+3. **Write a Java program** that creates an interface `Drivable` with a method `drive()`, and another interface `Flyable` with a method `fly()`. Create a class `FlyingCar` that implements both interfaces and demonstrates multiple inheritance through interfaces.
+
+### **20. Additional Questions**
+- **Explain the difference** between single and multiple inheritance with examples.
+- **Write a Java program** that uses inheritance to demonstrate the "is-a" relationship. Create a base class `Bank` and a derived class `SavingAccount` to show that `SavingAccount` is a type of `Bank`.
+- **Discuss how to achieve multiple inheritance** in Java using interfaces. Write a program to demonstrate the concept.
+
