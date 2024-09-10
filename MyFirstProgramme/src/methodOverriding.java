@@ -7,7 +7,7 @@ class aaa{
     }
 }
 // now we want different statement for show while maintaining inheritance
-// we want method with same name but the methods to be over ridden
+// we want method with same name but the methods to be overridden
 class bbb extends aaa{
     public void show(){// prefrence to own above others
         // method override

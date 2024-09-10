@@ -17,7 +17,7 @@ class bb extends aa
     public bb()
     {
         //super(5);// calling the parameterized constructor
-        super();
+        super(); // this wil;l call the default constructor
         System.out.println("in b");
     }
     public bb(int n)
